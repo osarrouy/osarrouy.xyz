@@ -1,0 +1,19 @@
+---
+number: 0
+title:  Introduction
+---
+
+<script>
+  import Wiki from '../../../components/Wiki.svelte';
+</script>
+
+
+# Introduction
+
+<Wiki slug="Principe_du_tiers_exclu">principe du tiers-exclus</Wiki>
+La question technique constitue sans doute l'une des questions les plus mal posées de notre temps. Habitude a été prise, en effet, de relayer la technique au statut de « moyen » dont les fins seraient extérieures.
+Les politiques ou le marché décideraient de ce dont nous avons besoin - énergie, médicaments, iPhone, télévision, routes, etc. Les techniques, elles, répondraient simplement à ces « besoins » en satisfaisant une demande dictée ailleurs et par d'autres moyens.
+
+## Ceci est un sous-titre
+
+Yala encore du blanla

@@ -1,0 +1,143 @@
+@import './variables.scss';
+
+html,
+body {
+	background-color: $background;
+	box-sizing: border-box;
+	color: $terminal;
+	font-family: 'SF Mono', monospace;
+	font-size: $font-size;
+	font-weight: 200;
+	line-height: 1.3em;
+	font-weight: $thin;
+}
+
+*,
+*:before,
+*:after {
+	box-sizing: inherit;
+	margin: 0;
+	padding: 0;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ol,
+ul,
+pre,
+a {
+	word-wrap: break-word;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	// color: $accent;
+	font-family: 'Crimson Text', serif;
+	font-weight: $bold;
+	line-height: 1em;
+	margin: $GU 0;
+}
+
+// h1 {
+//   font-size: 5em;
+// }
+
+// h2 {
+//   font-size: 3.5em;
+//   line-height: 1.5em;
+// }
+
+// h3 {
+//   font-size: 2em;
+//   line-height: 1.5em;
+// }
+
+p {
+	margin: 2 * $GU 0;
+
+	&:first-of-type {
+		margin-top: 0;
+	}
+
+	&:last-of-type {
+		margin-bottom: 0;
+	}
+}
+
+pre {
+	overflow: scroll;
+}
+
+// a {
+//   color: $color;
+//   text-decoration: underline;
+
+//   &:hover {
+//     font-weight: 600;
+//   }
+// }
+
+// [aria-current] {
+//   font-weight: bold;
+//   background-color: $accent;
+//   color: $asphalt;
+// }
+
+a {
+	color: $accent;
+	text-decoration: none;
+	padding: $GU / 2;
+
+	&:hover {
+		font-weight: bold;
+		background-color: $accent;
+		color: $asphalt;
+	}
+}
+
+table {
+	border-collapse: separate;
+	border-spacing: $GU;
+	margin: 0 -$GU;
+
+	td {
+		&:first-of-type {
+			text-align: left;
+		}
+
+		&:last-of-type {
+			text-align: right;
+		}
+	}
+}
+
+// input,
+// textarea {
+//   background: $background;
+//   border: none;
+//   color: $color;
+//   font-family: inherit;
+//   font-size: inherit;
+//   font-weight: inherit;
+//   line-height: 1.3em;
+//   resize: none;
+//   &:focus {
+//     outline: none;
+//     outline-width: none;
+//   }
+// }
+
+// table {
+//   border-spacing: $spacing 0;
+//   margin-left: -#{$spacing};
+// }

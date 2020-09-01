@@ -1,0 +1,8 @@
+{
+  "name": "root",
+  "private": true,
+  "devDependencies": {
+    "eslint-plugin-svelte3": "^2.7.3",
+    "lerna": "^3.22.1"
+  }
+}

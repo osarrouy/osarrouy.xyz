@@ -1,0 +1,10 @@
+@mixin center {
+  color: $accent;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  max-width: 980px;
+  min-height: calc(100vh - #{4 * $GU});
+}
