@@ -19,9 +19,13 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    padding-top: 50px;
     width: 100%;
     max-width: 980px;
+    padding: $GU;
+
+    @media only screen and (max-width: 980px + 14 * $GU) {
+      padding-top: 7 * $GU;
+    }
   }
 </style>
 

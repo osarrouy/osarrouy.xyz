@@ -1,21 +1,35 @@
 // colors inspired from Challenger Deep theme
 // see https://github.com/challenger-deep-theme/vim
 
-$asphalt: #1e1c31;
-$asphalt-light: #3e3c51;
 $cyan: #aaffe4;
-$green: #95ffa4;
+$green-light: #95ffa4;
+$green-dark: #62d196;
+$green: $green-light;
+
 $purple: #c991e1;
 $red: #ff8080;
 $white: #f3f3f3;
-$background: $asphalt;
 $bold: 600;
+$cloud: #cbe3e7;
 
-$accent: $green;
-$terminal: $green;
+$asphalt-light: #3e3c51;
+$asphalt-dark: #1e1c31;
+$asphalt: $asphalt-dark;
+
+$cyan-light: #aaffe4;
+$cyan-dark: #63f2f1;
+
+$black-light: #565575;
+$black-dark: #100e23;
+
+$background: $asphalt;
+$accent: $cyan;
 $color: $white;
 $font-size: 13px;
 $spacing: 1rem;
 $thin: 100;
 $header-height: 50px;
 $GU: 8px;
+
+$foreground: $green;
+$ease: cubic-bezier(0.2, 1, 0.3, 1);

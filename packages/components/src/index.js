@@ -1,2 +1,6 @@
-export { default as Screen } from './Component.svelte'
+export { default as Screen } from './Screen.svelte'
 export { default as Burger } from './Burger.svelte'
+export { default as Menu } from './Menu.svelte'
+export { default as Back } from './Back.svelte'
+export { default as Scanlines } from './Scanlines.svelte'
+export { default as Player } from './Player.svelte'

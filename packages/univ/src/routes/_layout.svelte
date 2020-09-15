@@ -1,11 +1,14 @@
 <script>
-  import Header from "../components/Header.svelte";
   import Nav from "../components/Nav.svelte";
+  import { Back, Burger, Scanlines } from "@osarrouy/components";
 
   export let segment;
   let opened = false;
 </script>
 
-<Header bind:opened {segment} />
-<Nav bind:opened {segment} />
-<slot {segment} />
+<Scanlines>
+  <Back />
+  <Burger bind:opened />
+  <Nav bind:opened {segment} />
+  <slot {segment} />
+</Scanlines>

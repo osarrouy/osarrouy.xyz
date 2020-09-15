@@ -1,15 +1,16 @@
 <script>
-  import { sequence } from "../../../stores";
   import { Screen } from "@osarrouy/components";
-  import chapters from "../_chapters";
-
-  export let segment;
-
-  $: {
-    sequence.set(chapters[segment]);
-  }
 </script>
 
+<style lang="scss">
+  .lesson {
+    padding-bottom: 6 * $GU;
+  }
+</style>
+
 <Screen>
-  <slot />
+  <div class="lesson">
+    <slot />
+
+  </div>
 </Screen>

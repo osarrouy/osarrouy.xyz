@@ -4,7 +4,7 @@ html,
 body {
 	background-color: $background;
 	box-sizing: border-box;
-	color: $terminal;
+	color: $foreground;
 	font-family: 'SF Mono', monospace;
 	font-size: $font-size;
 	font-weight: 200;
@@ -74,10 +74,6 @@ p {
 	}
 }
 
-pre {
-	overflow: scroll;
-}
-
 // a {
 //   color: $color;
 //   text-decoration: underline;
@@ -104,40 +100,3 @@ a {
 		color: $asphalt;
 	}
 }
-
-table {
-	border-collapse: separate;
-	border-spacing: $GU;
-	margin: 0 -$GU;
-
-	td {
-		&:first-of-type {
-			text-align: left;
-		}
-
-		&:last-of-type {
-			text-align: right;
-		}
-	}
-}
-
-// input,
-// textarea {
-//   background: $background;
-//   border: none;
-//   color: $color;
-//   font-family: inherit;
-//   font-size: inherit;
-//   font-weight: inherit;
-//   line-height: 1.3em;
-//   resize: none;
-//   &:focus {
-//     outline: none;
-//     outline-width: none;
-//   }
-// }
-
-// table {
-//   border-spacing: $spacing 0;
-//   margin-left: -#{$spacing};
-// }

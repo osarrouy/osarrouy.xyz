@@ -43,7 +43,7 @@ export default {
 				// update includePaths to what suits.
 				// node_modules is probably only necessary if you need to import from a css library
 				includePaths: ['src/styles'],
-				output: 'static/globals.css'
+				output: 'static/global.css'
 			}),
 			replace({
 				'process.browser': true,
@@ -105,7 +105,7 @@ export default {
 				// update includePaths to what suits.
 				// node_modules is probably only necessary if you need to import from a css library
 				includePaths: ['src/styles'],
-				output: 'static/globals.css'
+				output: 'static/global.css'
 			}),
 			replace({
 				'process.browser': false,

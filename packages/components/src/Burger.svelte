@@ -4,69 +4,82 @@
 
 <style lang="scss">
   div.burger {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-end;
-    justify-content: center;
-    position: fixed;
-    top: 0;
-    right: 2 * $GU;
-    z-index: 3;
-    height: $header-height;
-    user-select: none;
-  }
-
-  input {
+    @include transparent();
     cursor: pointer;
-    opacity: 0; /* hide this */
-    display: block;
-    position: absolute;
-    top: 0;
-    right: 0;
-    z-index: 2;
-    height: $header-height;
-    width: 3 * $GU;
-    -webkit-touch-callout: none;
+    position: fixed;
+    right: $GU;
+    top: $GU;
+    z-index: 3;
+    height: 5 * $GU;
+    width: 5 * $GU;
+    transition: all 1s $ease;
 
-    &:checked {
-      ~ span {
-        background: $accent;
-        &:first-of-type {
-          transform: rotate(-45deg);
-        }
-        &:last-of-type {
+    span {
+      background-color: $black-light;
+      display: block;
+      margin: 2px auto;
+      position: absolute;
+      left: $GU;
+      right: 1 * $GU;
+      height: 2px;
+      width: 2 * $GU;
+      transition: all 1s $ease, top 0.3s ease 0.1s;
+
+      &:nth-of-type(1) {
+        top: $GU;
+        transition: background-color 1s $ease, top 0.3s $ease 0.3s,
+          transform 0.3s ease-out 0.1s;
+      }
+      &:nth-of-type(2) {
+        width: 1 * $GU;
+        top: 2 * $GU;
+        right: 1 * $GU;
+        transition: background-color 1s $ease, opacity 0.3s $ease 0.3s;
+      }
+      &:nth-of-type(3) {
+        top: 3 * $GU;
+        transition: background-color 1s $ease, top 0.3s $ease 0.3s,
+          transform 0.3s ease-out 0.1s;
+      }
+    }
+
+    &:hover {
+      span {
+        background-color: $foreground;
+      }
+    }
+
+    &.opened {
+      background-color: $foreground;
+
+      span {
+        background-color: $background;
+
+        &:nth-of-type(1) {
+          top: 2 * $GU;
           transform: rotate(45deg);
-          width: 3 * $GU;
-          margin-top: 9.1px;
+          transition: top 0.3s ease 0.1s, transform 0.3s ease-out 0.5s;
+        }
+        &:nth-of-type(2) {
+          opacity: 0;
+          transition: top 0.3s ease 0.1s;
+        }
+        &:nth-of-type(3) {
+          top: 2 * $GU;
+          transform: rotate(-45deg);
+          transition: top 0.3s ease 0.1s, transform 0.3s ease-out 0.5s;
         }
       }
     }
   }
-
-  span {
-    background: $white;
-    display: block;
-    height: 2px;
-    margin-top: 0;
-    margin-bottom: 5px;
-    position: relative;
-    z-index: 1;
-    transition: all 0.5s cubic-bezier(0.77, 0.2, 0.05, 1);
-
-    &:first-of-type {
-      width: 3 * $GU;
-      transform-origin: 100% 50%;
-    }
-
-    &:last-of-type {
-      width: 2 * $GU;
-      transform-origin: 100% 50%;
-    }
-  }
 </style>
 
-<div class="burger">
-  <input type="checkbox" bind:checked={opened} />
+<div
+  class="burger {opened ? 'opened' : ''}"
+  on:click={() => {
+    opened = !opened;
+  }}>
+  <span />
   <span />
   <span />
 </div>

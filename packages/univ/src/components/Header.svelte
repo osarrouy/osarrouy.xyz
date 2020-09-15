@@ -1,7 +1,7 @@
 <script>
   import { stores } from "@sapper/app";
   import chapters_tcs from "../routes/tcs/_chapters.js";
-  // import Burger from "./Burger.svelte";
+  import Burger from "./Burger.svelte";
 
   export let opened = false;
 
@@ -87,4 +87,4 @@
     </ul>
   </nav>
 </header>
-<!-- <Burger bind:opened /> -->
+<Burger bind:opened />

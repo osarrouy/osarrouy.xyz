@@ -1,13 +1,16 @@
 ---
 number: 1
-title:  De l'artificialité
+title:  De l'artificialité - 1
 ---
 
-```js exec
-import Note from '../../../components/Note.svelte';
-```
+<script>
+  import { Player } from '@osarrouy/components';
+  import Note from '../../../components/Note.svelte';
+</script>
 
-# De l'artificialité
+# De l'artificialité - 1
+
+<Player src="./recordings/tcs/1.mp3"/>
 
 
 https://lundi.am/La-revolution-est-une-question-technique
