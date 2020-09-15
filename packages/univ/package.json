@@ -3,9 +3,9 @@
 	"description": "TODO",
 	"version": "0.0.1",
 	"scripts": {
-		"dev": "sapper dev --ext '.svelte .svx'",
-		"build": "sapper build --legacy --ext '.svelte .svx'",
-		"export": "sapper export --legacy --ext '.svelte .svx'",
+		"dev": "npx sapper dev --ext '.svelte .svx'",
+		"build": "npx sapper build --legacy --ext '.svelte .svx'",
+		"export": "npx sapper export --legacy --ext '.svelte .svx'",
 		"start": "node __sapper__/build",
 		"cy:run": "cypress run",
 		"cy:open": "cypress open",
