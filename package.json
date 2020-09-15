@@ -1,8 +1,12 @@
 {
-  "name": "root",
-  "private": true,
-  "devDependencies": {
-    "eslint-plugin-svelte3": "^2.7.3",
-    "lerna": "^3.22.1"
-  }
+	"name": "root",
+	"private": true,
+	"scripts": {
+		"install": "npx lerna bootstrap",
+		"build:univ": "cd packages/univ && npm run build"
+	},
+	"devDependencies": {
+		"eslint-plugin-svelte3": "^2.7.3",
+		"lerna": "^3.22.1"
+	}
 }
