@@ -3,7 +3,7 @@
 	"private": true,
 	"scripts": {
 		"install": "npx lerna bootstrap",
-		"build:univ": "cd packages/univ && npm run build"
+		"build:univ": "cd packages/univ && npm run export"
 	},
 	"devDependencies": {
 		"eslint-plugin-svelte3": "^2.7.3",
