@@ -3,6 +3,8 @@
     // border: 1px dashed #2e2c41;
     background: #2e2c41;
     border-left: 2px solid $accent;
+    margin-top: 2 * $GU;
+    margin-bottom: 2 * $GU;
     margin-left: -$GU - 2px;
     margin-right: -$GU;
     padding: $GU;
