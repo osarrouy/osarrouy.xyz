@@ -15,7 +15,7 @@
 </script>
 
 <svelte:head>
-  <title>technologie, communication, société</title>
+  <title>introduction aux cultures numériques</title>
 </svelte:head>
 
 <Screen>
