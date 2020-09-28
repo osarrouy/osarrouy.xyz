@@ -41,53 +41,26 @@ h3,
 h4,
 h5,
 h6 {
-	// color: $accent;
+	color: $accent;
 	font-family: 'Crimson Text', serif;
 	font-weight: $bold;
 	line-height: 1em;
-	margin: $GU 0;
+	margin: 2 * $GU 0 $GU 0;
 }
 
-// h1 {
-//   font-size: 5em;
-// }
+h1 {
+	margin-top: 0;
+	margin-bottom: 2 * $GU;
+}
 
-// h2 {
-//   font-size: 3.5em;
-//   line-height: 1.5em;
-// }
-
-// h3 {
-//   font-size: 2em;
-//   line-height: 1.5em;
-// }
-
-p {
-	margin: 2 * $GU 0;
-
-	&:first-of-type {
-		margin-top: 0;
-	}
+p,
+li {
+	margin: $GU 0;
 
 	&:last-of-type {
 		margin-bottom: 0;
 	}
 }
-
-// a {
-//   color: $color;
-//   text-decoration: underline;
-
-//   &:hover {
-//     font-weight: 600;
-//   }
-// }
-
-// [aria-current] {
-//   font-weight: bold;
-//   background-color: $accent;
-//   color: $asphalt;
-// }
 
 a {
 	color: $accent;
