@@ -1,0 +1,66 @@
+---
+number: 2
+title:  De l'artificialité - 2/2
+---
+
+<script>
+  import { Player } from '@osarrouy/components';
+  import Note from '../../../components/Note.svelte';
+  import Wiki from '../../../components/Wiki.svelte';
+</script>
+
+<Player src="./recordings/tcs/2.mp3"/>
+
+# De l'artificialité - 2/2
+
+On considère que l'humanité, comme espèce, n'a plus sensiblement évolué depuis 40 000 ans. Néanmoins, les effets de la technique sur nos modes d'être, de percevoir, de penser et d'agir n'ont pas cessé depuis lors. Ceux-ci, toutefois, ne réclament plus un détour par le long processus zoologique de l'évolution. Ils nous transforment en constituant une sorte de mémoire externe partagée.
+
+## La technique comme mémoire
+
+<Note>
+  <Wiki slug="Bernard_Stiegler">Bernard Stiegler</Wiki>
+  
+  Philosophe.
+  <p>
+  Ouvrage principal : <a href="https://www.fayard.fr/sciences-humaines/la-technique-et-le-temps-9782213700878" target="_blank">La technique et le temps</a>
+  </p>
+</Note>
+
+Bernard Stiegler distingue trois mémoires distinctes :
+
+1. **La mémoire génétique** La mémoire de l’espèce portée par l’ADN.
+
+2. **La mémoire épigénétique** La mémoire de l’individu portée par le système nerveux.
+
+3. **La mémoire épiphylogénétique** Propre à l’espèce humaine, cette mémoire est le produit d'un processus d’extériorisation continué dans des symboles - livres, paroles transmises, arts - et artefacts techniques.
+
+Stiegler qualifie comme telle la mémoire épiphylogénétique dans la mesure où elle est à la fois le produit de l’expérience individuelle que l’on appelle épigénétique, et un support phylogénétique, en tant qu’elle constitue un véritable phylum culturel intergénérationnel.
+
+Stiegler affirme qu'à partir d’un certain seuil du développement - il y a donc environ 40 000 ans - la mémoire épiphylogénétique devient le principal vecteur de différenciation: non plus de l’espèce mais des différentes formations sociales.
+
+Le mouvement de différenciation techno-logique se prolonge par l’émergence d’une mémoire s’élaborant et se conservant par organisation de l’inorganique - et non plus par l’organisation de l’organique comme dans le cas de l’évolution génétique.
+
+
+## Des artefacts techniques comme actants
+
+<Note>
+  <Wiki slug="Bruno_Latour">Bruno Latour</Wiki>
+  Sociologue / philosophe
+</Note>
+
+<Note>
+  À LIRE
+  <a href="/pdfs/latour.pdf" target="_blank">Une sociologie sans objet ? Note théorique sur l'interobjectivité</a>
+</Note>
+
+Latour part d'une vieille querelle sociologique entre interactionnisme et holisme [ou structuralisme] : les acteurs sociaux s’engagent-ils librement et consciemment dans l’action ou sont-ils les marionnettes de structures sociales qui déterminent toujours-déjà, à l’avance, leurs possibilités d’action.
+
+Latour balaye ces deux options. Selon lui, les « structures sociales » n'existent pas en tant que telles. Mais les situations de pure interaction, radicalement située, dans une plein co-présence, non plus. Latour considère que l’interaction est en permanence **disloquée** et l’action toujours **partagée**.
+
+L'action est disloquée parce que le moment et le lieu présent de l’interaction sont toujours reliés à d’autre lieux et d’autres moment ; comme hantés par eux. Les mots, symboles, postures, artefacts, espaces qui entrent dans la situation d'interaction nous viennent d'autres êtres, d'autres temps et d'autres lieux - et pour ils sont bien **présents** dans notre ici et maintenant.
+
+Paradoxalement, cette dislocation simplifie nos interactions en les stabilisant, en les cadrant et en faisant précisément en sorte que les acteurs n’aient pas en permanence à renégocier l’ordre de leur relation ou l’ordre de l’action qu’ils sont en train de conduire.
+
+En ce sens, une action intervient toujours par la rencontre entre plusieurs actants : des individus humains, des symboles, des collectifs mais aussi des artefacts techniques présentant des **scripts d'action**.
+
+Savoir qui /quoi exactement doit être tenu pour responsable de l'advenue d'une action - en identifier une source - est illusoire donc et consistue une controverse.

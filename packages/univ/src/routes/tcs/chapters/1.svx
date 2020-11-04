@@ -1,6 +1,6 @@
 ---
 number: 1
-title:  De l'artificialité
+title:  De l'artificialité - 1/2
 ---
 
 <script>
