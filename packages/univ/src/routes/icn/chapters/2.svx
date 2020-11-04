@@ -1,0 +1,59 @@
+---
+number: 2
+title:  Histoire du web
+---
+
+<script>
+  import { Player } from '@osarrouy/components';
+  import Note from '../../../components/Note.svelte';
+  import Wiki from '../../../components/Wiki.svelte';
+</script>
+
+<Player src="./recordings/icn/2.mp3"/>
+
+# Naissance et évolution du web
+
+
+<Note>
+  <Wiki slug="Tim_Berners-Lee">Tim Berners-Lee</Wiki>
+  Informaticien, physicien.
+</Note>
+
+Le web consiste en un série de technologie mises au point par <Wiki slug="Tim_Berners-Lee">Tim Berners-Lee</Wiki> et <Wiki slug="Robert_Cailliau">Robert Cailliau</Wiki> au CERN, au tournant des années 1990 pour concevoir, partager et lier entre eux des documents hypertextes.
+
+
+1. **Un système d’identification des ressources** Les URL: Uniform Ressource Locator.
+2. **le langage HTML** Un langage de description des pages web.
+3. **Le protocole HTTP** Un protocole qui spécifie comment doivent dialoguer un serveur web et un client web.
+
+La même année, les responsables du réseau du CERN décident d’utiliser le protocole TCP/IP et de se rattacher au réseau Internet. En 1990 Berners-Lee fini de développer le premier navigateur web: <Wiki slug="WorldWideWeb_(navigateur)">WorldWideWeb</Wiki>. Il s’agit d’un navigateur web très rudimentaire quoique fonctionnel. En 1993, le navigateur MOSAIC devient le premier navigateur avec une interface graphique. Suivent en 1994 Netscape puis en 1995 Internet Explorer de Microsoft.
+
+La première page web est publiée en 1991. En 1995 - quand sort Internet Explorer - il y a déjà 19000 sites web en ligne. En 2000 - cinq ans plus tard - quelques 10 000 000 sites web. Aujourd'hui on estime qu'il existe plusieurs milliards de sites en ligne …
+
+
+## Du web 1.0 au web 2.0
+
+Le web de l'époque est un web dit « statique». Les contenus sont mis en ligne par des administrateurs et il n'est pas possible d'interagir avec.
+
+L'idéal d’horizontalité et de l’information socialement partagée promue par les créateurs du web va donc devoir attendre quelques années - et quelques innovations techniques - pour devenir effectif.
+
+Ces techniques vont - paradoxalement - être mises aux point à des fins économiques et non à des fins politiques. Ce sont en effet les sites de vente en ligne qui - les premiers - vont faire face à la nécessité d’identifier leur client, leur permettre d'enregistrer leur addresse, etc. pour leur envoyer des commandes - autour de l’année 1995, années de naissance d’Amazon et d’eBay.
+
+À la fin des années 1990, ces technologies atteignent une certaine maturité. On voit ainsi fleurir, au début des années 2000, un certain nombre de plateformes qui vont utiliser ces technologies pour concevoir des dispositifs organisés autour d’un contenu principalement produit par les utilisateurs eux-mêmes.
+
+- 1998 : naissance de Google
+- 1999 : naissance de Blogger (racheté en 2003 par Google)
+- 2001 : naissance de Wikipedia
+- 2003 : naissance de MySpace
+- 2004 : naissance de Flickr
+- 2004 : naissance de Facebook
+- 2004 : naissance de Yelp
+
+L’irruption de ces plateformes va concorder avec deux phénomènes qui, sans être tout à fait autonomes, en sont toutefois relativement indépendants : a. la crise économique des dotcom et b. la démocratisation d’Internet.
+
+
+## Le sacre des UGC [User-Generated Content]
+
+Les UGCs vont devenir une nouvelle manne. En 2006, Time Magazine nomme « nous » - les internautes - personnes de l'année.
+
+Les premiers secteurs à être affectés vont être les industries culturelles - la musique, la photo, la vidéo, la presse. Plus tardivement, de nouveaux usages vont être imaginés avec, par exemple, les réseaux sociaux : Facebook, Twitter, Instagram, LinkedIn, Viadeo, etc. - et les sites de production collaborative de contenus : Wikipedia, Amazon, Foursquare, Yelp, Google, etc.
