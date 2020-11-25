@@ -1,0 +1,60 @@
+---
+number: 3
+title:  Individualisme et expressivisme
+---
+
+
+# Individualisme et expressivisme
+
+Podcast disponible <a target="_blank" href="https://soundcloud.com/user-666995420/icn-5">ici</a>.
+
+
+* Les pionniers d'Internet avaient une vision très communautaires des interactions en ligne.
+* Les grandes plateformes contemporaines reconduisent ce discours en parlant de « communautés Facebook » ou « de communauté Instagram , etc.
+* Pourtant, l'analyse de ces plateformes montre que leur design s'organise de fait autour de la figure de l'individu - et non autour de celle de la communauté.
+* **Ex.** Login, photos de profil, placeholder - racontez votre journée aujourd'hui, etc.
+* Ce n'est pas un hasard : en réalité « les modalités d'engagement du Web 2.0 apparaissent plus personnelles et individuelles que ne l'ont suggéré les promoteurs du World Wide Web qui valorisent souvent la dimension communautaire des mondes numériques » (Aguiton & Cardon, 2007, p. 53) que communautaires
+* **Ex.** Blogs, réseaux sociaux, etc. Même les contributeurs de Wikipedia ne s'engagent le plus souvent dans la rédaction d'articles qu'autour de préoccupations personnelles.
+* Les usages du web s'inscrivent dans une dynamique ancienne d'individualisation de nos sociétés et visent le plus souvent une augmentation du capital relationnel et / ou réputationnel, l'affirmation de son unicité et l'élaboration de son identité.
+
+
+## Identité et modernité
+
+* Cette problématique de l'individualisation et de l'identité n'est pas nouvelle. Elle constitue une problématique centrale de notre modernité.
+* Jusqu'à l'avènement de la modernité, la question de l’identité n’en était pas une : l’identité n’était pas une question parce que cette identité était immédiatement prescrite par l'origine sociale.
+* **Ex.** origine & identité géographique, origine & identité sociale, origine & identité religieuse, origine & identité professionnelle
+* En nous soustrayant à ces communautés toujours-déjà définies et assignées par la tradition - communauté géographique, religieuse, familiale, etc. - la modernité a en réalité contraint l’individu à composer par lui-même un soi mis en défaut.
+* En cessant de nous imposer des modes de vies subies - non-choisis et non-voulus - la modernité est aussi ce qui a fait l'individualité une tâche nous incitant à nous différencier.
+* **Ex 1.** Mobilité géographique, mobilité sociale et professionnelle, etc.
+* **Ex. 2** Urbanisation. L’urbanisation favorise l’individualisation - la différenciation des individualités - parce qu'elle implique un relâchement des cercles sociaux primaires.
+
+* Ces différents facteurs vont exercer une diversification des cercles sociaux - c’est-à-dire une différenciation de plus en marquée des individualités les unes par rapports aux autres.
+* Chacun tend à emprunter une trajectoire de vie assez unique - en tout cas très différente de celle de ses parents - mais aussi une trajectoire de vie plus ou moins choisie - en tout cas moins subie que par le passé.
+* Notre identité n'est plus toujours-déjà prescrite à la naissance - mais doit être activement construite, choisie, élaborée, etc.
+* **Important.** la socialité et l’identité, dès lors qu'elles n'adviennent plus comme un phénomène subi - imposé par la tradition et l’inertie de situations sociales toujours-déjà assignées à la naissance - deviennent automatiquement l’objet d'une activité *réflexive* exigeant d'isoler et de choisir, parmi les multiples trajectoires de socialisation que la modernité propose, laquelle emprunter.
+* **Ex.** Est-ce que je veux être professeur ou artisan, est-ce que je veux habiter à la ville ou à la campagne, est-ce que je veux être un fêtard ou un ermite, est-ce que je veux être quelqu’un qui travaille beaucoup ou pas, est-ce que je veux être croyant ou non, etc.
+* Cela est une chance, mais réclame chance aussi un effort, une sorte de tâche existentielle qui nous est confiée et qu’il n’est pas toujours facile de mener à bien.
+* Cette espèce de nécessité à déterminer qui l’on est elle est encore accentuée par ce fait que dans l’anonymat de la grande ville et des rapport marchands qui nous enserrent, la modernité - qui réclame de nous que nous affirmions une identité propre - a paradoxalement tendance à nous soumettre à une forme d’impersonnalisation radicale qui nous prive de toute reconnaissance extérieure de ses singularités.
+* Nous sommes ainsi soumis à une tension que nous allons avoir tendance à résoudre en accentuant encore notre singularité, en essayant d’être encore un petit peu plus différents que tout le monde à travers tout un jeu complexe de stratégies d'imitation et de différenciation - mode, consommation, segments culturels, etc. - « toutes marquées par le désir d'exister en tant qu'individu » (Le Bart, 2009, p. 126).
+
+> « Là où la progression quantitative de l'importance et de l'énergie atteint sa limite, on a recours à la particularisation qualitative pour obtenir à son avantage, par l'excitation de la sensibilité aux différences, la conscience du cercle social d'une façon ou d’une autre, ce qui conduit finalement aux bizarreries les plus systématiques, aux extravagances spécifiques de la grande ville, excentricité, caprice, préciosité, dont le sens ne se trouve pas dans les contenus d’un tel comportement, mais seulement dans la forme qui consiste à être autrement, et par là à se faire remarquer - unique moyen finalement pour beaucoup de natures de gagner en passant dans la conscience des autres une certaine estime de soi-même et la conscience d’occuper une place. » (Simmel, 1989, p. 248-249)
+
+## Web et identité reflexive
+
+* Les dispositifs du web équipe notre subjectivité pour construire réflexivement une identité en exhibant publiquement notre individualité pour obtenir de la part des autres la reconnaissance de notre différence, de notre singularité.
+* **Ex.**  Facebook : montrer aux autres ce que l’on fait, les articles de presse qu’on lit et dans lesquels on se reconnaît, la musique qu’on aime. Yelp : montrer aux autres - pour se différencier - les lieux où l’on sort, affirmer nos gouts.
+* Laurence Allard parle d'**individualisme expressif.**
+* L'individualisme expressif constitue une certain forme d’individualisme réflexif dans lequel « l'identité n'est pas seulement une question de choix, mais aussi une question d'expression et d'authenticité » (Allard & Vandenberghe, 2003, p. 200)
+* Autrement dit avec le web il ne s’agit pas seulement de se choisir une identité mais d’une part - en exposant à autrui des fragments de cette identité - d’essayer de donner à lire et à comprendre cette identité, et d'autre part d'offrir dans cette expression des gages d'authenticité.
+* La construction de cette identité passe ici par des choix dans ce que vous montrer, dans ce que nous ne montrez pas, dans la manière dont vous vous montrer - en choisissant les bonnes photos plutôt que les mauvaises par exemple, etc.
+* Cette identité elle est donc mise en scène, pas nécessairement dans un sens négatif mais dans la mesure où elle fait l’objet d’un récit dans lequel nous choisissons minutieusement les moyens par lesquels nous allons donner à voir et à lire cette identité.
+* Le web introduit ainsi une importante distance entre le soi et la production du soi.
+* **Ex.** Le selfie.
+* La flexibilité qu'offre le web dans le façonnement de son identité permet de moduler celle-ci en fonction du contexte, de la plateforme, et du public auquel celle-ci s'adresse.
+* Néanmoins, cette identité doit faire montre d'authenticité : les marges de manœuvres sont donc réduites.
+* De plus en plus, la vie hors-ligne est organisée de telle sorte à être adéquates aux modes de présentation du soi sur les réseaux sociaux: soirées, voyages, repas, etc.
+
+
+## Ressource
+
+<a href="/pdfs/allard.pdf" target="_blank">Allard, L. 2003. EXPRESS YOURSELF ! LES PAGES PERSO Entre légitimation technopolitique de l'individualisme expressif et authenticité réflexive peer to peer</a>
