@@ -1,0 +1,64 @@
+---
+number: 1
+title:  De l'artificialité
+---
+
+<script>
+  import { Player } from '@osarrouy/components';
+  import Note from '../../../components/Note.svelte';
+  import Wiki from '../../../components/Wiki.svelte';
+</script>
+
+<Player src="./recordings/tcs/1.mp3"/>
+
+# De l'artificialité
+
+L'humanité n'est pas une espèce toujours-déjà donnée mais profondément artificielle : elle se modifie sous l'effet des techniques - culinaires, intellectuelles, artisanales, etc. - qu'elle se donne. Mieux encore: l'humanité, en tant qu'espèce, est, dans ses spécificités biologiques, partiellement l'effet de ses dispositions techniques.
+
+## L'hominisation comme technicisation
+
+<Note>
+  <Wiki slug="André_Leroi-Gourhan">André Leroi-Gourhan</Wiki>
+  
+  Paléoanthropologue.
+</Note>
+
+Nous avons longtemps pensé que le processus d'hominisation - c’est-à-dire le processus de différenciation de l’homme en tant qu’espèce - était _d’abord_ lié à un processus de mutation et de développement progressif du cerveau à partir duquel _seulement_ l’homme aurait progressivement développé des capacités techniques et langagières.
+
+Leroi-Gourhan va au contraire montrer que le développement des fonctions cognitives humaines est le _résultat_ - et non la cause - du développement technique et de l’extériorisation technique.
+
+Il va donc inverser la compréhension qu’on se fait du processus d’hominisation : la thèse fondamentale de Leroi-Gourhan c’est que l’hominisation ne commence pas par le cerveau mais par les pieds.
+
+### L’homme commence par les pieds
+
+Le mouvement premier qui enclenche l’hominisation, c’est le passage à la bipédie - il y a quelques millions d’années.
+
+Cette bipédie va en effet enclencher un double mouvement : 1. un mouvement de libération des mains - des pattes avant - de leur fonction motrice ; 2. un mouvement de libération de la face et de la boite crânienne.
+
+Cette double libération des mains et de la cavité frontale va autoriser un infléchissement radical du processus d’hominisation où la complexification des gestes techniques va progressivement entraîner le développement du cerveau humain - c’est-à-dire le développement biologique de l’homme.
+
+Il faut bien prendre conscience de l’importance de cette rupture : le développement bio-logique de l’homme y devient aussi immédiatement un processus techno-logique ; c’est-à-dire un processus reposant sur une logique propre d’extériorisation technique. L’intériorité de l’homme - sa constitution physio-biologique - y devient le résultat d’un processus d’externalisation.
+
+Leroi-Gourhan parle d’un processus de couplage cortex-silex pour désigner cette interdépendance proprement humaine entre externalité et intériorité.
+
+### La coévolution du cerveau ou le couplage cortex-silex
+
+Le développement et la complexification des gestes techniques autorisés par la libération de la main vont exercer une pression cognitive importante favorisant le développement progressif des fonctions cognitives avancées du cerveau.
+
+En effet, le geste technique n’est pas simplement un mouvement instinctif génétiquement inscrit et déterminé. Il appelle à un contact réfléchi avec la matière et à une mise à distance de notre rapport à la matière. C’est-à-dire une suspension progressive du rapport d’immédiateté au réel qui caractérise les espèces les moins évoluées.
+
+C’est ainsi à travers ce processus de technicisation et de complexification du geste technique que les premiers hominidés vont progressivement exercer une certaine pression sur leur fonction cognitive et engager le développement des zones de cognition avancées du cerveau.
+
+Le processus d’hominisation - c’est-à-dire le processus de différenciation génétique de l’homme en tant qu’espèce - est donc indissociable du processus de technicisation. L’intériorité humaine - l’humain en tant qu’espèce biologiquement spécifique - est donc le produit, le corrélât du processus d’externalisation en quoi consiste le processus de technicisation.
+
+### Le geste et la parole
+
+C’est d’ailleurs dans ce même mouvement que se développe la capacité de langage de l’homme. En réalité la création / manipulation d’outils et la création / manipulation de symboles et de mots font appel dans le cerveau au même appareillage cognitif.
+
+L'étude du cerveau humain montre la contiguïté et la solidarité à l'intérieur du cortex-moyen des zones de la motricité et du langage. Et les zones d'association enrobant le cortex-moyen de la face et de la main participent conjointement à l'élaboration des symboles phonétiques et graphiques.
+
+## Conclusion
+
+La genèse de l’homme en tant qu’espèce est donc liée à un processus indissociablement techno-logique et zoo-logique.
+
+Le processus de technicisation et d’extériorisation d’une part et le processus d’hominisation d’autre part - c’est-à-dire le processus de développement biologique des facultés de cognition avancée autorisant l’émergence du langage, de la symbolisation, etc. - sont les deux faces d’un même mouvement.

@@ -1,0 +1,94 @@
+---
+number: 1
+title:  Histoire d'Internet
+---
+
+<script>
+  import { Player } from '@osarrouy/components';
+  import Note from '../../../components/Note.svelte';
+  import Wiki from '../../../components/Wiki.svelte';
+</script>
+
+<Player src="./recordings/icn/1.mp3"/>
+
+# Histoire du numérique - 2
+
+Jusque dans les années 1970 l'informatique reste avant tout une affaire de « professionnels ». Les ordinateurs sont lourds, chers, couteux, difficiles à utiliser, et cantonnés soit aux services administratifs des grandes entreprises et de l'état, soit aux centres de recherche.
+
+Cela va changer à partir des années 1970 / 1980 avec l'arrivée de deux nouveaux phénomènes: l'ordinateur personnel et Internet.
+
+## Naissance de la micro-informatique personnelle
+
+La naissance de la micro-informatique personnelle va d’abord être tirée par des progrès techniques : notamment l’invention du micro-processeur.
+
+L’invention du circuit intégré dans les années 1970 va permettre de graver et de superposer de nombreux composants sur une seule et même plaque de silicium. Ce procédé va permettre de décupler les performances des ordinateurs, pour un coût, une consommation électrique et un volume nettement moins importants.
+
+IBM va concentrer toutes ces avancées techniques pour les intégrer dans un seul et même petit ordinateur et commercialiser le premier micro-ordinateur à destination des entreprises : la série des <Wiki slug="IBM_360_et_370">IBM 360</Wiki>.
+
+La série des IBM 360 va connaître un grand succès et se répandre un peu partout dans les entreprises, dans les administrations, etc. Personne n'envisage encore, néanmoins, que ces machines puisse rencontrer le « grand public ».
+
+Il faudra pour cela un détour par la contre-culture californienne des années 1970.
+
+
+### Hippies et micro-informatique
+
+Commencent à apparaitre dans les années 1970, en Californie, dans la baie de San Francisco notamment, les milieux plus ou moins radicaux de la contre culture californienne.
+
+S'y retrouvent des profils très variés notamment issus des nombreuses université du coin - UCLA, Berkeley, etc. - autour de différentes causes : la lutte contre la guerre du Vietnam, l’écologie, etc.
+
+C’est dans ce contexte qu’un certain nombre de groupes contestataires vont commencer à s’intéresser à la micro-informatique naissante.
+
+Ceux-ci refusent les usages qu’en fait la société de l’époque qui confère une espèce de monopole sur ces technologies informatiques à l’administration américaine - et notamment l’administration militaire - et aux grandes entreprises.
+
+Ils entrevoient dans l'informatique d'autres possibles: plus créatifs, plus horizontaux, etc. Cette idée qui va guider un certain nombre d’initiatives qui - du début des années 1970 jusqu’à la fin des années 1980 - vont conduire les mouvements contestataires hippies à essayer de se réapproprier l’informatique.
+
+C’est par exemple dans ce contexte que va naître en 1973, à Berkeley, le Bulletin Board System <Wiki slug="Community_Memory">Community Memory</Wiki>.
+
+C'est aussi dans ce contexte que va être conçu dans un garage, en 1975, le premier micro-ordinateur personnel : <Wiki slug="Altair_8800">l'Altair 8800</Wiki>
+
+A partir de là les initatives ne vont pas cesser de se multiplier: Apple, IBM, etc.
+
+
+## Naissance d’Internet
+
+Internet doit sa naissance à une série de recherches initiée au début des années 1960 par <Wiki slug="Joseph_Carl_Robnett_Licklider">Joseph C.R. Licklider</Wiki>.
+
+En 1962, Licklider prend la tête du bureau de traitement de l'information de la <Wiki slug="Defense_Advanced_Research_Projects_Agency>DARPA</Wiki>. Il va dès lors travailler à la conception de la suite de protocoles TCP/IP qui constituent encore aujourd'hui l’architecture logique de l’Internet.
+
+En 1969 va être mis en place le premier lien d’un réseau appelé <Wiki slug="Arpanet">ARPANET</Wiki> - l’ancêtre d’Internet - entre l'université de Californie à Los Angeles et le Standford Research Institute.
+
+Progressivement, d’autres liens vont être mis en place avec d’autres universités. En 1981 le réseau ARPANET comptera 213 noeuds.
+
+Mais ARPANET rencontrera rapidment un problème « politique » : alors qu'il a été conçu au profit des militaires et des scientifiques, il va rapidement leur échapper.
+
+### D’ARPANET à Internet
+
+Nous l'avons vu: les communautés hippies de la baie de San-Francisco ont été parmi les premières à essayer d’expérimenter les possibilités ouvertes par l’informatique personnelles.
+
+Elles vont très tot vont comprendre l’intérêt qu’il y a à connecter ces ordinateurs entre eux pour créer des réseaux : des réseaux de communication, d’échange, où on pourrait partager ses idées, où on pourrait discuter politique, musique, écologie, bouddhisme, etc.
+
+Un certain nombre d’étudiant proche de la contre-culture califorienne vont dès lors commencer à bidouiller leurs ordinateurs pour les relier les uns aux autres - à l’époque en passant par leurs lignes téléphoniques.
+
+Ceux-ci vont très très rapidement entendre parler d’Aparnet par l'entremise de <Wiki slug="Stewart_Brand">Steward Brand</Wiki>.
+
+<Note>
+  <Wiki slug="Stewart_Brand">Steward Brand</Wiki>
+  Technophile, musicien, passeur de culture.
+</Note>
+
+Steward Brand va constituer un passeur entre deux mondes : le monde des laboratoires de recherche qui travaillent sur ARPANET et le monde des hippies.
+
+Il va initier les chercheurs au rock et au LSD et parallèlement il va introduire ARPANET auprès des communautés de la contre-culture californieene qui vont rapidement trouver un moyen de se relier au réseau ARPANET.
+
+Ces communautés vont développer les premiers forum en ligne comme <Wiki slug="Usenet">Usenet</Wiki> dont il vont se servir pour discuter de tout et de rien, pour partager leur réflexion politique, des infos sur de la musique, des concerts, etc.
+
+Le réseaux Usenet va rapidement gagner en taille - et très vite il va déborder le réseaux ARPANET.
+
+Le réseau ARPANET qui avait été mis en place à la base pour échanger des données entre scientifiques ou pour transporter des communications militaires va majoritairement servir, à partir des années 1980, à discuter de LSD, de musique et de politique.
+
+En 1983 le ministère de la défense trouve que la situation n’est plus gérable. Il décide de scinder ARPANET en deux : MILNET (MILitary NETwork) est confié aux Ministères des armés et réservé aux activités classées de l'armée américain ; ARPANET lui, est laissé ouvert à qui veut bien s'y connecter. Ce dernier va progressivement être repris en main par la National Science Foundation, qui l'étend et l'ouvre, ce qui donnera naissance à l'Internet actuel.
+
+
+## Ressources
+
+<a href="https://www.amazon.fr/Aux-sources-lutopie-num%C3%A9rique-cyberculture/dp/2915825106/ref=sr_1_2?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Fred+Turner&qid=1602687694&s=books&sr=1-2" target="_blank">Fred Turner. Aux sources de l'utopie numérique : De la contre culture à la cyberculture. 2013</a>

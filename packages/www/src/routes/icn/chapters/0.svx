@@ -1,0 +1,53 @@
+---
+number: 0
+title:  Introduction
+---
+
+<script>
+  import { Player } from '@osarrouy/components';
+  import Note from '../../../components/Note.svelte';
+  import Wiki from '../../../components/Wiki.svelte';
+</script>
+
+<Player src="./recordings/icn/0.mp3"/>
+
+# Histoire du numérique
+
+L'histoire du numérique découle d'abord de la volonté d'automatiser les opérations de calcul. Il est donc difficile d'en identifier une origine exacte: bouliers antiques, machines à calculer mécaniques à partir des 16ème et 17ème siècle, etc. On retiendra toutefois quelques étapes décisives.
+
+## Les prémisses
+
+<Note>
+  <Wiki slug="Machine_analytique">La machine analytique de Babbage</Wiki>
+
+  Elle emprunte son principe au <Wiki slug="Métier_Jacquard">métier Jacquard</Wiki>.
+</Note>
+
+<Note>
+  <Wiki slug="Herman_Hollerith">La tabulatrice d'Hollerith</Wiki>
+
+  Elle constitue la première machine à calculer vendue en masse.
+</Note>
+
+## La machine de Turing
+
+En 1936, <Wiki slug="Alan_Turing">Alan Turing</Wiki>, mathématicien anglais, va proposer - en réponse à un problème mathématique - un modèle théorique de machine à calculer qui va poser les bases du mode de fonctionnement logique de l’ordinateur contemporain.
+
+<Note>
+  <Wiki slug="Alan_Turing">Alan Turing</Wiki>
+
+  Mathématicien anglais, il constitue le père de l'informatique moderne.
+</Note>
+
+Le développement de ses recherches va s'accélérer avec la seconde guerre mondiale. Alan Turing sera embauché - de manière plus ou moins contrainte - par les services de renseignement anglais afin de briser <Wiki slug="Enigma_(machine)">Enigma</Wiki>, la machine responsable du chiffrement des communications allemandes. Il aura alors l'occasion d'implémenter pratiquement son modèle théorique en concevant le <Wiki slug="Colossus_(ordinateur)">Colossus</Wiki>.
+
+## L'ENIAC
+
+Les recherches vont également se poursuivre côté américain, motivée par le <Wiki slug="Projet_Manhattan">projet Manhattan</Wiki>. Elles aboutiront, en 1946, à la production de l'ENIAC, le premier ordinateur entièrement électronique.
+
+
+## Conclusion
+
+La situation dans l'immédiat après-guerre est donc la suivante : il est dorénavant possible de produire des ordinateurs « modernes » entièrement électroniques. En revanche, personne n'envisage à l'époque un usage démocratisé de ces technologies. Celles-ci sont prisonnières des murs gris des grandes corporations ou adminitrations, ou des centres de recherche militaire.
+
+Il faudra attendre encore 30 ans et la baisse des coûts de production liée à l'invention puces en silicone et des circuits-intégrés pour que quelques illuminés entrevoient, en Californie, la possibilité d'un usage autre, émancipateur, de ces technologies.

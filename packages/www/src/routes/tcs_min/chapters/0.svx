@@ -1,0 +1,35 @@
+---
+number: 0
+title:  Introduction
+---
+
+<script>
+  import { Player } from '@osarrouy/components';
+  import Note from '../../../components/Note.svelte';
+</script>
+
+<Player src="./recordings/tcs/0.mp3"/>
+
+# Introduction
+
+La question technique constitue sans doute l'une des questions les plus mal posées de notre temps. Habitude a été prise, en effet, de relayer la technique au statut de « moyen » dont les fins seraient extérieures. Les politiques ou le marché décideraient de ce dont nous avons besoin - énergie, médicaments, iPhone, télévision, routes, etc. Les techniques, elles, répondraient simplement à ces « besoins » en satisfaisant une demande dictée ailleurs et par d'autres moyens.
+
+Il s'avère pourtant que, dans les faits, les techniques exercent sur notre environnement et sur nous-mêmes - sur nos manières de percevoir, de penser, d'éprouver l'espace et le temps, d'être ensemble, etc. - des mutations décisives dont le mode d'exercice n'est réductible ni à la politique ni même à l'économie.
+
+Cette incapacité occidentale à penser la technique remonte loin dans notre histoire.
+
+## Étymologie
+
+Le terme « technique  » vient du grec _technè_ qui dérive lui-même d'un verbe très ancien : _teuchô_ - qu’on peut trouver employé, par exemple, chez Homère. Ce verbe recouvre plusieurs significations :
+
+1. **Fabriquer, produire, construire**. Ce terme associe l’idée d’une production matérielle ; d’un geste s'objectivant dans une entité matérielle suvrivant à l’acte qui lui a donné existence. En ce sens, l'acte technique s’oppose par exemple à l’acte de langage, à l’énonciation.
+2. **Amener à l’existence selon un acte approprié et efficace**. Le terme _technè_, production ou fabrication matérielle devient plus tardivement synonyme d'un faire efficace ou adéquat en général - non nécessairement relié à une production matérielle. On retrouve encore cette idée de « faire efficace » aujourd’hui dans certaine acception de la notion de technique : technique de drague ; technique du corps chez Mauss ; technique ou technologie disciplinaire chez Foucault.
+3. **Créer**. Se dégage plus tardivement, chez Aristote surtout, l’idée de _technè_ comme création. La _technè_ se rattache alors à l’idée de _poiésis_ - d'où nous vient la notion de _poésie_ : à l’idée de création de nouveau, d'une entité dont les principes ne préexistent pas au geste qui lui a donné existence. Cette signification confère au geste technique une dimension créatrice qui en était absente avant Aristote. Elle inspire une vision prométhéenne de la technique : une confiance dans l'aptitude de l’homme à transformer le monde selon ses volontés propres.
+
+## Conclusion
+
+Ce rapide survol étymologique nous montre une chose : que, d'où nous venons, nous ne prêtons pas assez d’intérêt aux artefacts techniques et aux effets qu’ils exercent concrètement sur l’homme et son environnement. La tradition de pensée occidentale, puisant ses origines dans la philosophie grecque, appréhende seulement la technique en tant que domaine circonscrit de l’agir humain relevant de lois spécifiques ; domaine d’action différencié de ces autres domaines d’action que peuvent constituer l’agir politique ou l’agir éthique.
+
+Cette tradition de pensée, malheureusement, manque à penser qu’en créant du nouveau, en externalisant du nouveau dans des artefacts techniques, l’homme se modifie lui-même. C'est ainsi **l'artificialité de l'homme** qu'elle échoue profondément à saisir. Mais elle manque aussi à penser que la technique constitue un redouble dispositif politique : **une façon silencieuse de gouverner à distance la conduite des autres**.
+
+Or c’est peut-être ça la question fondamentale de la technique, la question de la transformation, plus ou moins intentionnelle, plus ou moins visée mais aussi plus ou moins spontanée, plus ou moins autonome et plus ou moins imprévisible dans ses effets de l’homme par l’homme à travers un processus d’externalisation dans des artefacts techniques qui le modifient en retour.

@@ -1,0 +1,102 @@
+---
+number: 3
+title:  La question industrielle
+---
+
+<script>
+  import Note from '../../../components/Note.svelte';
+  import Wiki from '../../../components/Wiki.svelte';
+</script>
+
+# La question industrielle
+
+Podcast disponible <a target="_blank" href="https://soundcloud.com/user-666995420">ici</a>.
+
+* Nous avons jusqu'ici discuté de « la technique » de façon générale en essayant de montrer que celle-ci était en quelque sorte constitutive de l'humanité ou de nos humanités.
+* Parler de « la technique » est toutefois un piège : il existe *des* techniques affectant nos formes de vies de manières tout à fait distinctes.
+* Le moment industriel constitue en ce sens un moment de rupture à partir duquel notre rapport à la technique - et les manières dont les techniques nous affectent - sont radicalement altérés.
+
+<Note>
+  Références
+  <Wiki slug="Jacques_Ellul">Jacques Ellul</Wiki>
+  <Wiki slug="Ivan_Illich">Ivan Illich</Wiki>
+  <Wiki slug="Hartmut_Rosa">Harmut Rosa</Wiki>
+</Note>
+## Les caractéristiques des techniques industrielles
+
+### Le fétichisme de l'efficacité
+
+* Les techniques industrielles ont tendance à exclure toute rationalité ou toute sensibilité autre que celle de l'efficacité.
+* Les techniques pré-industrielles étaient chargées de sens, de tradition. Les savoirs sur lesquels elles reposaient se transmettaient de génération en génération. Elles étaient souvent investies, aussi, d'une symbolique extérieurs à leur fonction immédiate.
+* **Ex.** La récolte intrinsèquement mêlée à des croyances religieuses. Les techniques de chasses vécues comme un échange entre des mondes - celui de l'homme et celui de l'animal chassé.
+
+* Les techniques industrielles, elles, résultent de la recherche de l’efficacité optimale. Elles procèdent de la mise à distance de toutes ces pratiques et la volonté de leur substituer des procédés plus adaptés fondés sur le calcul.
+* C'est une des raisons pour lesquelles, à de nombreuses reprises, certains groupes se sont opposés à l'avènement de techniques industrielles - voire à certaines techniques non-industrielle de contrôle, parce qu'elle contrevenait à leur forme-de-vie.
+* **Ex.** Les luddites contre les métiers à tisser. Les nomades contre l'écriture.
+* La différence est qu'on ne connaît aucun groupe qui a su, sur le temps long, échapper à l'hégémonie des techniques industrielles.
+
+* A l'omniprésence de la technique répond également l'omniprésence d'une nouveau rapport aux choses comment devant être *lisibles*, *accessibles*, *maitrisables*, *utilisables*.
+* Les techniques industrielles procèdent ainsi d'un rapport au monde qui est de domination : le monde doit être compréhensible, immédiatement accessible et se soumettre à notre volonté.
+* **Ex.** Contrôle des cycles du jour par la lumière électrique, maitrise de la distance, maitrise de l'absence, etc.
+* Or, paradoxalement, dans un tel rapport de domination, le monde devient un obstacle qui ne peut plus nous affecter - ni de manière malheureuse, ni de manière heureuse.
+* **Ex.** Rapport amoureux. Fin des voyages.
+
+### La complexification des mondes techniques
+
+* La recherche de l'efficacité et l'avènement de la science et du calcul comme support premier des techniques a également conduit à une complexification très rapide des artefacts techniques.
+* La production industrielle correspond à un changement de réalité technique\
+* L’outil technique - industriel - était à la mesure du corps de l’homme et de sa capacité d’entendement : n’importe quel individu est capable d’en saisir le fonctionnement et d’en faire usage selon sa volonté propre.
+* La machine - nouvelle réalité technique à l'heure industrielle - engage au contraire l’individu dans des agencements d’action sur lequel il n’a plus aucune prise et qui dépasse de loin sa possibilité de penser.
+* Pour la première fois de son histoire, l’Homme est entouré d'artefacts techniques au fonctionnement desquels la plupart des individus de ne comprennent rien.
+
+### L'autonomisation du système technique
+
+* « Les techniques » semblent évoluer de manière autonome. Même si une technique semble peu désirable, celle-ci semble destinée à advenir malgré tout du simple fait de son efficacité.
+* **Ex.** Gas de schistes. Armes nucléaires.
+* L'ensemble des techniques constituent un réseau objectif, autonome, indépendant.
+* Ex. Le sous-système numérique repose sur le sous-système électrique, qui repose sur le sous-système ferroviaire et routier, qui repose sur le sous-sytème pétrolier, qui repose sur le sous-système militaire, etc.
+* Chaque sous-système est ainsi amené à évoluer pour répondre aux exigences des autres sous-systèmes techniques avec lesquels il est en relation.
+
+> « On ne peut modifier une technique sans provoquer des répercussions, des modifications sur un grand nombre d’objets ou méthodes. Ensuite, les combinaisons entre les techniques produisent des effets techniques, engendrent de nouveaux objets ou de nouvelles méthodes. Et ces combinaisons ont lieu de façon nécessaire, inévitable. »
+
+* **Rmq.** Le point important, ici, est que les évolutions des systèmes techniques ne sont donc plus tirées par la volonté de satisfaire des besoins directs et concrets, mais par la nécessité de satisfaire aux nécessités d'autres sous-systèmes techniques. Les sous-systèmes techniques semblent ainsi se constituer en un système technique total et autonome, faisant face aux individus et aux sociétés, et leur imposant ses propres logiques.
+
+### L'accélération du développement technique
+
+* Cette autonomisation du système technique semble s'accompagner d'une accélération de son développement.
+* Jusqu’à la révolution industrielle, pour l’individu moyen, la charrue qu’il utilisait, était plus ou moins la même que celle qu’utilisaient son père, son grand père, son arrière grand père et ainsi de suite sur plusieurs siècles. \
+* Les artefacts techniques évoluait à un rythme extrêmement lent.
+* Aujourd'hui, il y a fort à parier que la quasi totalité des artefacts que vous manipulez mobilise des procédés techniques qui n’existaient même pas il y a quelques dizaines d’années.
+
+**Rmq** Cela crée un énorme problème de continuité des mondes entre-générations. Etrangement, *les personnes sont rendues obsolètes au monde*.
+
+## Technique et aliénation
+
+* L'ensemble de ces caractéristiques conduisent à un étrange phénomène : l'aliénation par la technique.
+* Le monde de la technique - qui est bien un monde humain - est devenu étranger à l’individu humain
+
+### Qu'est-ce que l'aliénation ?
+
+* La notion d’aliénation désigne usuellement le fait d’être rendu étranger à soi-même, d’être dépossédé de soi-même, de se perdre dans le monde.
+* c.f. Marx : le travailleur vend sa force de travail au capitaliste mais la la finalité de son travail lui échappe.
+* L'aliénation n’est donc pas un problème lié à l’intériorité d’un sujet - ce n'est pas un problème psychologique - mais un problème qui se rapporte aux liens qu’il est donné au sujet d’entretenir avec le monde qui l’entoure.
+	1. Le monde est-il intelligible ?
+	2. Le monde lui offre-t-il une prise ?
+
+### Aliénation et technique
+
+* La question de l’aliénation technique, qui est tout de même étonnante, peut donc être reformulée comme suit : comment l’homme, par son propre développement technique, finit par se fabriquer lui-même un monde in-intelligible et impraticable sur lequel nous n'avons plus aucune prise ?
+
+Vous savez qu’en réalité cette question d’une aliénation immanente - indépendamment de la dimension technique dont on est en train de parler - est caractéristique de la modernité ; et c’est une question qui traverse toute la philosophie critique à partir du début du XXème siècle - notamment à travers les travaux de l’Ecole de Francfort ;
+
+C’est-à-dire que l’avènement de la modernité c’est la disparition des arrières-monde ; c’est le moment on où arrête d’attribuer l’ordre social présent à un ordre transcendant - religieux, naturel ou autre - et où on admet que cet ordre social présent n’est rien d’autre que le produit d’une volonté et d’une action proprement humaine ; c’est le moment où on fait enfin l’expérience d’un ordre social entièrement immanent ;
+
+Simplement du même coup l’homme va aussi se mettre à faire cette expérience singulière - absolument caractéristique de la modernité - qui est d’être rendu étranger à un monde dont il convient pourtant qu’il l’a lui-même produit ; être rendu étranger à une réalité dont on accepte pourtant qu’elle est le pure produit d’une action humaine - et pas d’une action divine ;
+
+Et c’est une expérience qui est encore plus caractéristique de ce qu’on a parfois appelé la post-modernité ; c’est-à-dire le moment assez récent d’ailleurs où on continue de reconnaître le caractère proprement immanent du monde présent mais où on perd en même temps toute confiance dans la capacité de nos institutions à avoir quelque prise, à exercer quelque contrôle sur ce monde ;
+
+Cette perte de confiance c’est une question qui traverse toute la philosophie contemporaine et qui fera dire à Deleuze et Guattari ;
+
+> « Il se peut que croire en ce monde, en cette vie, soit devenue notre tâche la plus difficile, ou la tâche d’un mode d’existence à découvrir sur notre plan d’immanence » (Deleuze & Guattari, Qu’est-ce que la philosophie ?, p. 72).
+
+
