@@ -1,0 +1,179 @@
+---
+number: 4
+title:  Le gouvernement des foules - 1/2
+---
+
+Podcast disponible <a target="_blank" href="https://soundcloud.com/user-666995420/icn-6">ici</a>.
+
+# Le gouvernement des foules - 1/2
+
+Les dispositifs du web ne constituent pas simplement le lieu d’une exposition du soi. Ils nous **font faire** des choses **ensemble**.
+
+Parfois, ces « choses » qu'ils nous font faire réclament une coopération **consciente** et assez **étroite**.
+
+**Ex.** Wikipedia.
+
+Pourquoi, alors, parler d'un « faire faire » et non pas simplement d'un « faire » ? Pourquoi dire que ces *dispositifs nous « font faire » des choses* plutôt que de dire que *nous y faisons des choses* ? Pourquoi mettre l'intentionnalité du côté du dispositif plutôt que du côté des acteurs ? c.f. Latour.
+
+Parce que, le plus souvent, ces dispositifs ne suscitent qu’une coopération faible, c’est-à-dire une coopération ne réclamant que peu d'interaction, d’échanges, d’accord / consensus.
+
+**Ex. 1** Yelp et / ou TripAdvisor.
+
+**Ex. 2** Flickr.
+
+Parfois même les régimes de coopération coordonnés par ces dispositifs sont encore plus faibles - au point qu'on ne sait plus bien s'il y a encore sens à parler de coopération - dans la mesure où nous n’en avons même pas conscience.
+
+**Ex. 1** PageRank.
+
+**Ex. 2** reCaptcha.
+
+Ces dispositifs, donc, nous « font faire » des choses ensemble dont nous n'avons parfois qu'une conscience très nébuleuse voire pas de conscience du tout.
+
+Ce  problème du « faire faire » c’est le problème que Michel Foucault désignait sous la notion de « gouvernementalité ».
+
+## La notion de gouvernementalité
+
+La notion de gouvernementalité a été forgée par Michel Foucault dans une série de cours - ou de conférences - qu’il a donné au Collège de France durant la seconde moitié des années 1970. Ces cours sont aujourd’hui publiés dans deux ouvrages fondamentaux que sont _Sécurité, territoire, population_ et _Naissance de la Biopolitique_. La question qui traverse ces cours est celle des modalités d’exercice du pouvoir.
+
+1. **Le pouvoir n’est pas d’abord négatif.** Il n’est pas - ou pas uniquement - d’obéissance, de contrainte, d’interdiction ou de violence. **Le pouvoir est une positivité** en ceci qu’il consiste à fabriquer des comportements, à façonner des subjectivités. Ex. : la discipline et le rapport au temps et à l’épargne. L’art de gouverner c’est donc **l’art de conduire la conduite des autres**.
+
+2. Il est plus simple pour ceux qui gouvernent que **les autres se conduisent spontanément comme ils le souhaitent** plutôt qu’ils n’aient à les contraindre. Il y a donc une certaine **économie du pouvoir** : plus celui-ci s’auto-limite, plus il se fait silencieux, moins il se fait voyant, et plus il est efficace. Ex. : l’amphithéâtre comme dispositif disciplinaire.
+
+3. **Le pouvoir ne vise donc pas ni ne passe nécessairement par l’obéissance à des lois.** La loi ne constitue qu’un mécanisme parmi tant d’autres - parfois efficace, parfois inefficace - pour conduire les conduites des autres.
+
+4. **Le pouvoir ne se détient pas, il s’exerce** à travers toute une série mécanismes symboliques, relationnels, infrastructurels qui, à tout moment, peuvent cesser d’opérer. Ex. : les mécanismes de gratification symbolique dans les relations gouvernement / syndicat.
+
+
+
+## Politiques du laisser-faire
+
+Le première caractéristique de la gouvernementalité du web est qu’elle repose sur des contributions **spontanées** et **non-concertées**.
+
+1. **Spontanées.** Personne ne nous prends par la main ni ne nous contraint à utiliser ces dispositifs. Nous les utilisons parce que nous en avons envie, ou sous l’effet de la pression sociale, mais aucunement sous le coup d’une contrainte réelle. D’ailleurs, lorsque certains s’y essayent, cela ne fonctionne pas. Ex.: StopCovid.
+
+2. **Non-concertées.** Les utilisateurs ne se concertent ni ne se coordonnent en amont de leur usage. Leurs contributions se rencontrent à même l’utilisation du dispositif. Ex. : notes sur Yelp / TripAdvisor, tag des photos sur Flickr, diffusion et usage des hashtags sur Twitter, etc.
+
+Cela peut paraître évident aujourd'hui mais n'avait rien d'évident il y a encore trente ans.
+
+### Le marché et la firme
+
+Si nous avions posé la question « comment coordonner des collectifs à grande échelle » à un intellectuel - non-marxiste - il y a quarante ans, celui-ci aurait à coup sûr répondu : par le marché.
+
+#### Le marché
+
+La rencontre de l’offre et de la demande _via_ le marché est supposé assurer une distribution optimale des ressources. Ex. : la chaine d’approvisionnement d’une voiture: voiture -\> acier -\> caoutchouc -\> etc.
+
+C’est à ce mécanisme d’allocation « automatique » des ressources que renvoie la notion de « main invisible du marché » chez Adam Smith.
+
+En théorie ce mécanisme est formidable : optimal, décentralisé, juste, etc. Dans les faits … c’est plus compliqué.
+
+C’est plus compliqué politiquement, mais aussi plus compliqué organisationnellement. Un rapide coup d’oeil sur le tissu économique contemporain nous montre d’ailleurs que **l’essentiel du travail d’allocation et de coordination des ressources économiques n’est pas le fait du marché mais de structures organisationnelles dédiées** : de manager. C’est ce qu’on appelle **le modèle de la firme** - un autre nom pour désigner les grandes structures organisationnelles hiérarchiques intégrées.
+
+#### Historique de la firme 
+
+Le modèle de la firme est historiquement né à la fin du 19ème siècle. Jusque là la plupart des « entreprises » - que l’on n’appelait pas comme cela - étaient de petites entreprises familiales.
+
+A la fin du 19ème siècle divers phénomènes vont changer la donne.
+
+1. L’urbanisation. Les citadins sont bien plus dépendants du marché pour subvenir à leurs besoins.
+
+2. Le chemin de fer. Les premières grandes lignes de chemin de fer sont posées aux USA et en Europe diminuant les temps de transport par 10.
+
+3. Le télégraphe. Le télégraphe permet, pour la première fois, de communiquer en temps quasi-réel à grande distance.
+
+Ex. Il devient possible de produire des vêtements à New-York et de les distribuer et de les vendre dans tous les USA.
+
+
+La conjonction de ces différents facteurs - urbanisation, chemin de fer, télégraphe - va impulser un changement d’échelle radical dans la taille des marchés.
+
+Or les formes d’organisation de l’époque - les entreprises familiales - gérées par quelques personnes qui se connaissaient intimement vont avoir beaucoup de mal à faire face à ce changement d’échelle.
+
+Ex. Milliers de salariés, ne se connaissant pas, ne pouvant communiquer en face-à-face, et travaillant parfois sur des fuseaux horaires différents. Mauvaise lisibilité des ressources et des entrées / sorties économiques. Mauvaise lisibilité des chaînes de responsabilité.
+
+Les premières entreprises confrontées à ce problème vont d’ailleurs être les compagnies de chemin de fer. Ex. Les nombreux accidents.
+
+C’est pour répondre à ce problème que va être inventé **le management contemporain**. Vont être créés les premiers postes qui auront pour simple fonction d’organiser les tâches des autres, de planifier leurs activités, de les coordonner, d’en distribuer la responsabilité, etc.
+
+Ce modèle, qui a tout du cauchemar bureaucratique, va rapidement être adopté par l’ensemble des secteurs d’activité. Ex. Métallurgie, automobile, etc.
+
+La question est donc : pourquoi ?
+
+#### Le problème des coûts de transaction
+
+> Ronald Coase. 1937. _The Nature of the Firm_.
+
+Si le marché est si efficace, pourquoi existe-t-il des organisations ? Et notamment de gigantesques organisations intégrées - des **firmes** ?
+
+Parce que se coordonner sur le marché, dans vie réelle - plutôt que dans la tête des économistes - ça coute en réalité assez cher : coûts de recherche de l’information, coût de négociation des contrats, négociation des garanties, frottement et inertie organisationnels, coûts de « formation », etc. C’est ce que Ronald Coase appelle les **coûts de transaction**.
+
+**Ex.** Revendeur de livre qui doit trouver le livre le moins cher possible pour le revendre.
+
+L’étendue des organisations est ainsi l’effet d’un équilibre économique d’ajustement aux coûts de transaction. Plus ceux-ci sont élevés plus les entreprises auront tendance à internaliser les activités et à les soumettre à un régime d’organisation managériale: celui de la firme. Plus ceux-ci sont faibles, plus les entreprises auront tendance à externaliser certaines activités et à recourir au marché.
+
+
+### Le web ou la troisième voie
+
+Je prends la peine d’expliquer tout ça pour que vous compreniez mieux, comparativement, ce que le web apporte de nouveau : des mécanismes de coordination de masse qui ne sont ni le marché, ni la firme.
+
+#### Ni le marché …
+
+Les mécanismes de coordination du web ne relèvent pas du marché. Les contributions ne se voient pas attribuer un prix, ce n’est pas la nécessité économique qui nous pousse à utiliser ces plateformes, il n’existe pas vraiment un marché des contributions, etc.
+
+C’est un vaste problème d’ailleurs. c.f. la thématique du **Digital Labor**.
+
+
+#### … ni la firme …
+
+Mais ces mécanismes de coordination ne relève pas non plus du modèle de la firme : nous ne sommes pas pris dans un rapport contractuel à ces dispositifs, nous ne sommes engagés à rien, et surtout, personne n’y planifie rien ni ne commande nos contributions.
+
+**Ex.** Yelp vs Le routard et la planification des activités de clients-mystères.
+** Ex. 2** Wikipedia vs Universalis
+
+
+#### … mais la spontanéité
+
+Clay Shirky note ainsi que la spécificité de ces mécanismes de coordination repose un procédé fondamental : **plutôt que d’apporter les individus au problème - en les contraignant à des tâches - il s’agit d’apporter le problème aux individus en mettant à leur disposition des outils d’auto-coordination**.
+
+Ceux-ci peuvent ainsi identifier eux-mêmes les tâches qu’ils souhaitent accomplir et s’y lancer avec d’autant plus d’enthousiasme qu’ils en sont à l’initiative.
+
+#### Une économie de la prolifération
+
+On comprend immédiatement l’avantage de tels procédés : plutôt que d’identifier en amont les ressources à allouer - ce qui limite nécessairement l’étendu de ces ressources - ces dispositifs n’excluent a priori aucune ressource possible.
+
+Ex 1. Milliard d’articles sur Wikipedia.  
+Ex 2. Evaluation de milliers de micro-bars sur Yelp.
+
+On le voit avec ces exemples : le marché comme la firme sont en réalité des dispositifs de coordination et d’allocation des ressources assez inefficaces.
+
+Ceux-ci réclament en effet que ces ressources soit identifiées en amont : droits de propriété, contrats de travail, etc.
+
+De la même manière que la transaction sur le marché sont relativement couteuse, le travail de planification de la firme l’est aussi.
+
+**Ex.** Cout des managers, et des managers de managers, et des managers de managers de managers, etc.
+
+Le marché comme la firme imposent donc une limite intrinsèque à l’étendu des ressources qu’il sont capables de coordonner.
+
+>  « En contrôlant le jeu des ressources par la propriété et en commandant un jeu d’agents par une relation de salariat, la firme réduit les éléments d’incertitude relatifs à l’interdépendance des actions des agents. Mais en faisant cela, elle crée une frontière autour du jeu d’agents disponibles et du jeu de ressources disponibles qui limite l’information disponible sur ce que d’autres agents auraient pu faire avec ces mêmes ressources ou ce que ces mêmes agents auraient pu faire avec d’autres ressources. » (Benkler, 2002)
+
+
+Les dispositifs du web sont, de ce point de vue, plus efficaces pour au moins deux raisons:
+
+1. En redistribuant les coûts d'identification des opportunités d'action et de coordination en direction des acteurs eux-mêmes, ils suscitent une certaine économie des coûts liés la division, à la distribution et à la coordination de l'action.
+2. En permettant de n’avoir pas à identifier et à coordonner leur agents amont, ils n’ont pas non plus à exclure, aussi, ceux d’entre eux dont il serait trop coûteux d'administrer la contribution.
+
+Cela se confirme lorsque l'on s'intéresse à la distribution des contributions. Il s'agit d'une loi de puissance.
+
+
+### Ressources
+
+
+Foucault, M. (1978). _Sécurité, Territoire, Population_. Paris, FR: Seuil.
+
+Foucault, M. (1979). _Naissance de la Biopolitique_. Paris, FR: Seuil.
+
+[Shirky, C. (2007). Ted Video.](https://www.ted.com/talks/clay_shirky_institutions_vs_collaboration?language=fr)
+
+
+[Benkler, Y. (2002). Coase's Penguin, or, Linux and "The Nature of the Firm". _The Yale Law Journal_, _112_(3), 369-446. doi:10.2307/1562247](https://arxiv.org/pdf/cs/0109077.pdf)
+
+
