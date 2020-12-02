@@ -1,0 +1,71 @@
+---
+number: 4
+title:  Technique et économie chez Marx - 1/2
+---
+
+<script>
+  import Note from '../../../components/Note.svelte';
+  import Wiki from '../../../components/Wiki.svelte';
+</script>
+
+
+Podcast disponible <a target="_blank" href="https://soundcloud.com/user-666995420/tcs-6">ici</a>.
+
+
+# Technique et économie chez Karl Marx - 1/2
+
+Ce cours va se baser sur une lecture de <Wiki slug="Karl_Marx">Karl Marx</Wiki> inspirée de <Wiki slug="Moishe_Postone">Moishe Postone</Wiki> et <Wiki slug="Anselm_Jappe">Anselm Jappe</Wiki>.
+
+La thèse en sera que l'autonomisation des systèmes techniques évoquée dans la séquence précédente est en fait l'effet d'une autonomisation des dynamiques économiques et de la place qu'occupent les techniques dans ces dynamiques économiques.
+
+Le point de départ en sera une série de questions : pourquoi les échanges marchands et le travail occupent une place si structurante dans nos sociétés ? Cela a-t-il toujours été le cas ? Et quelles en sont les conséquences ?
+
+## Subsomption formelle 
+
+L’oeuvre de Marx est une critique de l’économie politique - c’est d’ailleurs le sous-titre du Capital. C’est-à-dire une critique d’un certain type de savoir - d’une certain épistémè dirait Foucault - qui émerge progressivement à partir du 16ème siècle et qui prend pour objet l'étude des modalités de production et d’échange des marchandises dans leurs relations aux rapports sociaux, aux formes de gouvernements, aux modalités de développement de la richesse sociale et de redistribution de cette richesse, etc.
+
+L’économie politique ne constitue pas simplement un savoir théorique mais un savoir pratique : il s'agit d'un savoir à destination du pouvoir qui détermine pour une large partie le gouvernement des pays.
+
+Une école de pensée particulière en économie politique, qui émerge à la fin du XVIIIème siècle, va avoir un très fort impact : <Wiki slug="École_classique>l’école classique</Wiki>. Ses plus fameux représentants sont Adam Smith (1723-1790) et David Ricardo (1772-1823).
+
+Pour les tenants de cette école de pensée : il va de soi que la vie sociale soit structurée autour du travail et de l'échange de marchandise. Leur question vient « après » cette évidence : comment optimiser la production de richesse, comme la redistribuer, comment lever l'impot, etc.
+
+Pour Marx, ce fait ne va pas de soi.
+
+> « La richesse des sociétés dans lesquelles règne le mode de production capitaliste s'annonce comme une « immense accumulation de marchandises ». L'analyse de la marchandise, forme élémentaire de cette richesse, sera par conséquent le point de départ de nos recherches. »
+
+## La marchandise comme « forme cellulaire » de la société capitaliste
+
+La spécificité de la forme-marchandise, qui la différencie des autres formes de richesse, est que la marchandise constitue l’unité de deux pôles d’objectivité sociale distincts : sa valeur d’usage et sa valeur - sa valeur « tout-court ».
+
+La valeur d’usage d’une marchandise transcrit sa capacité à satisfaire un besoin. De ce point de vue, chaque marchandise est spécifique.
+
+Mais le propre d’une marchandise c’est aussi de pouvoir être échangée avec d’autres marchandises. Et de pouvoir être échangée dans des conditions bien spécifiques parce qu’échangée contre une certaine quantité d’argent. Leur échange n’est plus réglé par la mise en relation qualitative et située des valeurs d’usage de ces marchandises, mais quantitatif, lisse et uniforme de la « valeur » qui leur est attribuée.
+
+L'échange est donc abstrait des qualités concrètes de ce qui est échangé pour ne plus opérer que dans l'espace imaginaire de la valeur - du prix.
+
+Il s'agit là d'une singularité anthropologique. La forme-marchandise constitue une sorte d’objectivité sociale particulière de telle sorte que la production et l’échange des produits de l’activité humaine - qui ont tout de même à la base pour objet de satisfaire des besoins concrets : manger, s’équiper en outil, se divertir, etc. - ne sont plus réglés par les qualités concrètes de ces produits mais par une qualité abstraite qui leur est socialement attribuée et qui est leur valeur - c’est-à-dire leur capacité à se représenter dans une certaine quantité d’argent abstraction faite de leurs spécificités.
+
+Comment en est-on arrivé là ?
+
+
+
+## La subsomption formelle de la société sous le capital
+
+Marx qualifie ce processus - d'extension et de diffusion de la forme marchandise - de processus de subsomption formelle de la société sous le capital. Ce processus qualifie la façon dont l’organisation sociale de la production, dont les rapports sociaux sous lesquels il est donné aux individus d’entrer en relation les uns avec les autres, se trouvent progressivement mis en forme par les spécificités de l’échange marchand.
+
+Ce processus est initimement lié à la création par les institutions des sociétés modernes de la figure de « l'individu ». Ce processus est tout à la fois économique et politique.
+
+Il d'abord, sur le plan politique, d’arracher les individus aux formes sociales communautaires et corporatives de l’ancien régime pour fabriquer le citoyen moderne.
+
+**Ex.** Suppression du systèmes des ordres sociaux, suppression des corporations, redécoupage territorial, suppression / démantèlement des terrains communaux, etc.
+
+Alexis de Tocqueville dira par exemple au début 19ème :
+
+> « Nos pères n'avaient pas le mot individualisme que nous avons forgé à notre image parce que, de leur temps, il n'y avait pas en effet d'individu qui n'appartint à un groupe et pût se considérer absolument seul. »
+
+De la même manière, dans le champ économique, la figure du travailleur libre qui se présente sur le « marché du travail », n'existait pas - ou de manière très minoritaire - jusqu'à une date récente.
+
+La plupart des biens sont produits et circulent soit dans le cadre de l’économie de subsistance, soit dans le cadre des contributions féodales, soit dans le cadre de l’appropriation directe dans l’esclavage, soit dans le cadre du troc entre voisins, etc., et n’entrent jamais dans la forme-marchandise - ils ne font pas l'objet d'un échange contre de l'argent.
+
+Divers phénomènes - urbanisation, etc. - et interventions politiques - décret d'Allarde, loi Le Chapelier, etc. - vont mettre un terme à ces formes de production « communataires » et « non-économiques » et progressivement contraindre chacun à « entrer » dans l'économie et à embrasser le « salariat ».
